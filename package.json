@@ -1,0 +1,27 @@
+{
+  "name": "node-crash-course",
+  "version": "1.0.0",
+  "description": "\"# node-crash-course\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r0829897/node-crash-course.git"
+  },
+  "keywords": [],
+  "author": "Yoran Mertens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r0829897/node-crash-course/issues"
+  },
+  "homepage": "https://github.com/r0829897/node-crash-course#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
